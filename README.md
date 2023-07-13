@@ -40,9 +40,9 @@ You can buy one from amazon using [this](https://www.amazon.com/NVIDIA-Jetson-Na
 6) run `python3 train.py --model-dir=models/night_day data/night_day` (this command will take time to finish)
 7) run `python3 onnx_export.py --model-dir=models/night_day` (this makes it possible to test images)
 8) hit Ctl + D (this exits out of the docker)
-9) run `NET=models/night_day` (this sets variables)
-10) run `DATASET=data/night_day` (this sets variables)
-11) run `cd python/training/classification` (this changes the directories)
+9) run `cd python/training/classification` (this changes the directories)
+10) run `NET=models/night_day` (this sets variables)
+11) run `DATASET=data/night_day` (this sets variables)
 12) run `imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/day/400.jpg day.jpg` (this runs an image through the AI)
 
 
