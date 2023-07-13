@@ -21,9 +21,6 @@ You can buy one from amazon using [this](https://www.amazon.com/NVIDIA-Jetson-Na
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
-
 **downloading files**
 
 1) download the jetson_inference file [here](https://github.com/dusty-nv/jetson-inference.git)
@@ -48,4 +45,3 @@ You can buy one from amazon using [this](https://www.amazon.com/NVIDIA-Jetson-Na
 11) run `imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/day/400.jpg day.jpg` (this runs an image through the AI)
 
 
-[View a video explanation here](video link)
