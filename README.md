@@ -15,6 +15,10 @@ My algorithm detects if it is night or day. I gave it many different images to t
 
 ## Running this project
 
+**Warning**
+**This code only works with Jetson Nano**
+You can buy one from amazon using [this](https://www.amazon.com/NVIDIA-Jetson-Nano-Developer-945-13450-0000-100/dp/B084DSDDLT/ref=asc_df_B084DSDDLT/?tag=hyprod-20&linkCode=df0&hvadid=416652333997&hvpos=&hvnetw=g&hvrand=2605406615134929580&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1018145&hvtargid=pla-893453703291&psc=1&tag=&ref=&adgrpid=100759324064&hvpone=&hvptwo=&hvadid=416652333997&hvpos=&hvnetw=g&hvrand=2605406615134929580&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1018145&hvtargid=pla-893453703291) link
+
 1. Add steps for running this project.
 2. Make sure to include any required libraries that need to be installed for your project to run.
 
