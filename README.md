@@ -18,8 +18,8 @@ My algorithm detects if it is night or day. I gave it many different images to t
 1. Add steps for running this project.
 2. Make sure to include any required libraries that need to be installed for your project to run.
 
-1) download the jetson_inference file
+1) download the jetson_inference file [here](https://github.com/dusty-nv/jetson-inference.git)
+2) download the dataset [here](https://www.kaggle.com/datasets/heonh0/daynight-cityview?resource=download)
 
-2) 
 
 [View a video explanation here](video link)
